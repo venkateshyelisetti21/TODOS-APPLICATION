@@ -1,0 +1,19 @@
+plaintext
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore MacOS files
+.DS_Store
+
+# Ignore npm debug files
+npm-debug.log*
+
+# Ignore build files
+dist/
+build/
